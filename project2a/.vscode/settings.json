@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "*.py": "python",
+        "iostream": "cpp",
+        "vector": "cpp",
+        "deque": "cpp",
+        "iterator": "cpp",
+        "queue": "cpp"
+    }
+}

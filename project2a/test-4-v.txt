@@ -1,0 +1,13 @@
+#checking for names- priority queue
+quiver-capacity: 3
+random-seed: 2049238
+max-rand-distance: 10
+max-rand-speed: 53
+max-rand-health: 1
+---
+round: 1
+random-zombies: 0
+named-zombies: 3
+paoletti18 distance: 3 speed: 53 health: 1
+cris21 distance: 8 speed: 26 health: 1
+cris3 distance: 8 speed: 9 health: 1

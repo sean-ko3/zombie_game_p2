@@ -1,0 +1,49 @@
+Round: 1
+Round: 2
+Created: paoletti0 (distance: 5, speed: 1, health: 1)
+Created: darden1 (distance: 1, speed: 1, health: 1)
+Created: MarkSchlissel (distance: 3, speed: 1, health: 2)
+Created: MarySueColeman (distance: 2, speed: 2, health: 1)
+Created: LeeBollinger (distance: 2, speed: 1, health: 2)
+Destroyed: MarySueColeman (distance: 2, speed: 2, health: 0)
+Destroyed: darden1 (distance: 1, speed: 1, health: 0)
+At the end of round 2, the median zombie lifetime is 1
+Round: 3
+Moved: paoletti0 (distance: 4, speed: 1, health: 1)
+Moved: MarkSchlissel (distance: 2, speed: 1, health: 2)
+Moved: LeeBollinger (distance: 1, speed: 1, health: 1)
+Created: garcia2 (distance: 1, speed: 1, health: 1)
+Created: JamesDuderstadt (distance: 2, speed: 4, health: 3)
+Destroyed: JamesDuderstadt (distance: 2, speed: 4, health: 0)
+At the end of round 3, the median zombie lifetime is 1
+Round: 4
+Moved: paoletti0 (distance: 3, speed: 1, health: 1)
+Moved: MarkSchlissel (distance: 1, speed: 1, health: 2)
+Moved: LeeBollinger (distance: 0, speed: 1, health: 1)
+Moved: garcia2 (distance: 0, speed: 1, health: 1)
+DEFEAT IN ROUND 4! LeeBollinger ate your brains!
+Zombies still active: 4
+First zombies killed:
+MarySueColeman 1
+darden1 2
+JamesDuderstadt 3
+Last zombies killed:
+JamesDuderstadt 3
+darden1 2
+MarySueColeman 1
+Most active zombies:
+LeeBollinger 3
+MarkSchlissel 3
+paoletti0 3
+garcia2 2
+JamesDuderstadt 1
+MarySueColeman 1
+darden1 1
+Least active zombies:
+JamesDuderstadt 1
+MarySueColeman 1
+darden1 1
+garcia2 2
+LeeBollinger 3
+MarkSchlissel 3
+paoletti0 3
